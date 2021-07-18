@@ -1,0 +1,39 @@
+
+[24-Jun-2021 08:04:10 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:10 Europe/Berlin] Signup::contruct -> inicio de signup
+[24-Jun-2021 08:04:10 Europe/Berlin] Signup::render -> carga el index del Signup
+[24-Jun-2021 08:04:12 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:12 Europe/Berlin] Login::contruct -> inicio de login
+[24-Jun-2021 08:04:12 Europe/Berlin] Login::render -> carga el index del login
+[24-Jun-2021 08:04:28 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:28 Europe/Berlin] Login::contruct -> inicio de login
+[24-Jun-2021 08:04:28 Europe/Berlin] Login::render -> carga el index del login
+[24-Jun-2021 08:04:29 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:29 Europe/Berlin] Signup::contruct -> inicio de signup
+[24-Jun-2021 08:04:29 Europe/Berlin] Signup::render -> carga el index del Signup
+[24-Jun-2021 08:04:30 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:30 Europe/Berlin] Login::contruct -> inicio de login
+[24-Jun-2021 08:04:30 Europe/Berlin] Login::render -> carga el index del login
+[24-Jun-2021 08:04:35 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:35 Europe/Berlin] Login::contruct -> inicio de login
+[24-Jun-2021 08:04:35 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:35 Europe/Berlin] Main::contruct -> inicio de Main
+[24-Jun-2021 08:04:35 Europe/Berlin] Main::render -> carga el index del Main
+[24-Jun-2021 08:04:35 Europe/Berlin] Main::contruct -> inicio de Main
+[24-Jun-2021 08:04:35 Europe/Berlin] CONTROLLER::existPost -> no existe el parametro search
+[24-Jun-2021 08:04:38 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:38 Europe/Berlin] Main::contruct -> inicio de Main
+[24-Jun-2021 08:04:38 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\webAppAndresSoler\models\mainmodel.php on line 32
+[24-Jun-2021 08:04:38 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:04:38 Europe/Berlin] Login::contruct -> inicio de login
+[24-Jun-2021 08:04:38 Europe/Berlin] Login::render -> carga el index del login
+[24-Jun-2021 08:11:56 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:11:56 Europe/Berlin] Login::contruct -> inicio de login
+[24-Jun-2021 08:11:56 Europe/Berlin] Login::render -> carga el index del login
+[24-Jun-2021 08:11:59 Europe/Berlin] Inicio app web
+[24-Jun-2021 08:11:59 Europe/Berlin] APP::contruct-> no hay controlador especificado
+[24-Jun-2021 08:11:59 Europe/Berlin] Signup::contruct -> inicio de signup
+[24-Jun-2021 08:11:59 Europe/Berlin] Signup::render -> carga el index del Signup
+[01-Jul-2021 06:12:38 Europe/Berlin] Inicio app web
+[01-Jul-2021 06:12:38 Europe/Berlin] Inicio app web
+[01-Jul-2021 06:12:39 Europe/Berlin] Inicio app web
